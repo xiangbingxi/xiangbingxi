@@ -1,16 +1,27 @@
 ## Hi there 👋
+# 👋 你好，我是 xiangbingxi
 
-<!--
-**xiangbingxi/xiangbingxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+欢迎来到 my space！一个正在不断探索、构建新事物的开发者。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 关于我 (About Me)
+
+- 🔭 当前专注于：正在深入学习前端开发、后端逻辑，以及各种好玩的独立项目开发。
+- 🌱 正在钻研：尝试掌握更扎实的编程基础、版本控制（Git）以及系统工具。
+- ⚡ 兴趣爱好：热衷于用代码解决生活中的小问题，工作之余也喜欢听歌、旅行和探索科技数码产品。
+
+---
+
+## 🛠️ 我的工具箱 (Skills)
+
+| 类别 | 技术 / 工具 / 语言 |
+| 基础开发 | HTML5, CSS3, JavaScript |
+| 生态工具 | Git, GitHub, VS Code |
+
+---
+
+## 📬 保持联系 (Connect)
+
+- GitHub: 欢迎在我的项目中提交 Issue、Pull Request，或者直接关注我！
+- 探索脚印: "Keep coding, keep creating." 

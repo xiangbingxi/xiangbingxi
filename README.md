@@ -13,14 +13,6 @@
 
 ---
 
-## 🛠️ 我的工具箱 (Skills)
-
-| 类别 | 技术 / 工具 / 语言 |
-| 基础开发 | HTML5, CSS3, JavaScript |
-| 生态工具 | Git, GitHub, VS Code |
-
----
-
 ## 📬 保持联系 (Connect)
 
 - GitHub: 欢迎在我的项目中提交 Issue、Pull Request，或者直接关注我！

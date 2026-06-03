@@ -38,15 +38,15 @@
 ## 📊 动态数据统计 (My GitHub Stats)
 
 <p align="center">
-  <!-- 综合能力卡片 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=xiangbingxi&show_icons=true&theme=transparent&rank_icon=github&card_width=410" alt="GitHub Stats" width="48%" />
+  <!-- 综合能力卡片（采用 Vercel 稳定节点） -->
+  <img src="https://github-readme-stats.vercel.app/api?username=xiangbingxi&show_icons=true&theme=transparent&rank_icon=github" alt="GitHub Stats" width="48%" />
   <!-- 最常用语言卡片 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiangbingxi&layout=compact&theme=transparent&card_width=410" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiangbingxi&layout=compact&theme=transparent" alt="Top Langs" width="48%" />
 </p>
 
 <p align="center">
-  <!-- 连续提交天数火热度卡片 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xiangbingxi&theme=transparent" alt="GitHub Streak" width="97%" />
+  <!-- 连续提交热度卡片（采用 demolab 稳定节点） -->
+  <img src="https://streak-stats.demolab.com/?user=xiangbingxi&theme=transparent" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
@@ -55,16 +55,16 @@
 
 <p align="left">
   <!-- 邮件联系按钮 -->
-  <a href="mailto:[bingxi516@gmail.com]" target="_blank">
+  <a href="mailto:bingxi516@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-<!-- 访客计数器与底部寄语 -->
+<!-- 访客计数器（修复版纯图片接口） -->
 <p align="center">
-  <img src="https://komarev.com/badgecounter/dashboard/?username=xiangbingxi&style=for-the-badge&label=PROFILE+VIEWS&color=007ACC" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=xiangbingxi&style=for-the-badge&label=PROFILE+VIEWS&color=007ACC" alt="Profile Views" />
 </p>
 
 <p align="center">

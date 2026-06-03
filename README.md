@@ -35,22 +35,6 @@
 
 ---
 
-## 📊 动态数据统计 (My GitHub Stats)
-
-<p align="center">
-  <!-- 综合能力卡片（采用 Vercel 稳定节点） -->
-  <img src="https://github-readme-stats.vercel.app/api?username=xiangbingxi&show_icons=true&theme=transparent&rank_icon=github" alt="GitHub Stats" width="48%" />
-  <!-- 最常用语言卡片 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiangbingxi&layout=compact&theme=transparent" alt="Top Langs" width="48%" />
-</p>
-
-<p align="center">
-  <!-- 连续提交热度卡片（采用 demolab 稳定节点） -->
-  <img src="https://streak-stats.demolab.com/?user=xiangbingxi&theme=transparent" alt="GitHub Streak" width="97%" />
-</p>
-
----
-
 ## 📬 保持联系 (Connect)
 
 <p align="left">

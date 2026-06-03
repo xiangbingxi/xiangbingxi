@@ -1,6 +1,6 @@
 # 👋 你好，我是 xiangbingxi
 
-<!-- 1. 动态自适应 Banner（会随着 GitHub 的白天/黑夜模式自动切换文字颜色） -->
+<!-- 1. 动态自适应 Banner（随 GitHub 昼夜模式自动切换文字与背景颜色） -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0d1117&secondaryColor=1f2937&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=40&fontColor=ffffff&animation=fadeIn">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=f6f8fa&secondaryColor=e1e4e8&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=40&fontColor=24292e&animation=fadeIn">
@@ -19,8 +19,6 @@
 
 ## 🛠️ 我的工具箱 (Skills)
 
-<!-- 2. 彩色高颜值技能徽章模块 -->
-
 ### 💻 编程语言与前端 (Languages & Frontend)
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -37,16 +35,37 @@
 
 ---
 
+## 📊 动态数据统计 (My GitHub Stats)
+
+<p align="center">
+  <!-- 综合能力卡片 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=xiangbingxi&show_icons=true&theme=transparent&rank_icon=github&card_width=410" alt="GitHub Stats" width="48%" />
+  <!-- 最常用语言卡片 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiangbingxi&layout=compact&theme=transparent&card_width=410" alt="Top Langs" width="48%" />
+</p>
+
+<p align="center">
+  <!-- 连续提交天数火热度卡片 -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xiangbingxi&theme=transparent" alt="GitHub Streak" width="97%" />
+</p>
+
+---
+
 ## 📬 保持联系 (Connect)
 
 <p align="left">
-  <!-- 邮件徽章按钮 -->
-  <a href="mailto:bingxi516@gmail.com" target="_blank">
+  <!-- 邮件联系按钮 -->
+  <a href="mailto:[bingxi516@gmail.com]" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
+
+<!-- 访客计数器与底部寄语 -->
+<p align="center">
+  <img src="https://komarev.com/badgecounter/dashboard/?username=xiangbingxi&style=for-the-badge&label=PROFILE+VIEWS&color=007ACC" alt="Profile Views" />
+</p>
 
 <p align="center">
   <i>"Keep coding, keep creating." 🚀</i>
